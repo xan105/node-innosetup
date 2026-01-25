@@ -1,1 +1,1 @@
-export function compile(option: object): Promise<void>;
+export function compile(script: string, option?: object): Promise<void>;
