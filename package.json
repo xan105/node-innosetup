@@ -1,6 +1,6 @@
 {
   "name": "@xan105/innosetup",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Compile innosetup script (.iss) to create Windows installer/setup.",
   "type": "module",
   "exports": {
